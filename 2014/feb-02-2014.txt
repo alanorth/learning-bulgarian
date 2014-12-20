@@ -1,0 +1,20 @@
+Ресторант - restorant
+хотел - hotel
+поща - poshta (post office / mail)
+такси - taxi
+салата - salata (salad)
+пица - pitsa (pizza)
+сандвич - sandvich (sandwich)
+метро станция - metro stantsiya (metro station)
+басейн - baseyn ("basin" aka pool)
+американски долари - americanski dolari (American dollar)
+хамбургери - hamboorgeri (hamburger)
+дюнер - duner (doner kebap)
+чай - chai (tea)
+кафе - kafe (coffee)
+Уганда - Uganda
+Кейптаун - Keyptaoon (Capetown)
+София - Sofia!
+кускус - kooskoos (couscus)
+есемес - esemes (SMS)
+джиесем - dzhiesem ("GSM" aka phone)
