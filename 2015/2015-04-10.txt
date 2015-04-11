@@ -1,0 +1,34 @@
+Кон - Horse
+Коня - Horses
+Прасе - Pig
+Магаре - Donkey
+Вълк - Wolf
+Куче - Dog
+Котка - Cat
+Крава - Cow
+Краве мляко - Cow milk
+Коза - Goat
+Коза кисело мляко
+Алигатор - Aligator
+Слон - Elephant
+Крокодил - Crocodile
+Тигър - Tiger
+Лисица - Fox
+Лъв - Lion
+Мечка - Bear
+Катеричка - Squirell
+Океан - Ocean
+Кола - Car
+Остров - Island
+Море - Sea
+Червено море - Red sea
+Черно море - Black sea
+Кораб - Boat
+Камила - Camel
+Папагал - Parrot
+Таралеж - Porcupine
+Мишка - Mouse
+Заек - Rabbit
+Зайче - Little rabbit
+Жаба - Frog
+Самолет - Plane
